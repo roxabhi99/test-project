@@ -1,4 +1,4 @@
-class Book
+class Address
 {
 private int bookid;
 String bookname;
